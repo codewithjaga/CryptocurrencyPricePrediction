@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+prophet
+plotly
+tensorflow
+textblob
+scikit-learn
+statsmodels>=0.12.0
+
